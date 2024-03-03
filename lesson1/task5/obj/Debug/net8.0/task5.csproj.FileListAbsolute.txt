@@ -1,0 +1,15 @@
+/home/mary/Рабочий стол/C#/lesson1/task5/bin/Debug/net8.0/task5
+/home/mary/Рабочий стол/C#/lesson1/task5/bin/Debug/net8.0/task5.deps.json
+/home/mary/Рабочий стол/C#/lesson1/task5/bin/Debug/net8.0/task5.runtimeconfig.json
+/home/mary/Рабочий стол/C#/lesson1/task5/bin/Debug/net8.0/task5.dll
+/home/mary/Рабочий стол/C#/lesson1/task5/bin/Debug/net8.0/task5.pdb
+/home/mary/Рабочий стол/C#/lesson1/task5/obj/Debug/net8.0/task5.GeneratedMSBuildEditorConfig.editorconfig
+/home/mary/Рабочий стол/C#/lesson1/task5/obj/Debug/net8.0/task5.AssemblyInfoInputs.cache
+/home/mary/Рабочий стол/C#/lesson1/task5/obj/Debug/net8.0/task5.AssemblyInfo.cs
+/home/mary/Рабочий стол/C#/lesson1/task5/obj/Debug/net8.0/task5.csproj.CoreCompileInputs.cache
+/home/mary/Рабочий стол/C#/lesson1/task5/obj/Debug/net8.0/task5.sourcelink.json
+/home/mary/Рабочий стол/C#/lesson1/task5/obj/Debug/net8.0/task5.dll
+/home/mary/Рабочий стол/C#/lesson1/task5/obj/Debug/net8.0/refint/task5.dll
+/home/mary/Рабочий стол/C#/lesson1/task5/obj/Debug/net8.0/task5.pdb
+/home/mary/Рабочий стол/C#/lesson1/task5/obj/Debug/net8.0/task5.genruntimeconfig.cache
+/home/mary/Рабочий стол/C#/lesson1/task5/obj/Debug/net8.0/ref/task5.dll
